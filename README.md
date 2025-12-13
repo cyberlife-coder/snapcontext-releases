@@ -25,20 +25,20 @@
 
 | Action | Raccourci | Description |
 |--------|-----------|-------------|
-| ✨ **Reformuler** | `Ctrl+Alt+1` | Améliorer le style, la clarté et le professionnalisme |
-| 📋 **Résumer** | `Ctrl+Alt+2` | Extraire les points clés en version concise |
-| 🌍 **Traduire** | `Ctrl+Alt+3` | Traduire vers 10+ langues en préservant le contexte |
-| ✓ **Corriger** | `Ctrl+Alt+4` | Corriger orthographe, grammaire et ponctuation |
-| 💬 **Répondre** | `Ctrl+Alt+5` | Générer une réponse avec 5 tonalités (formel, décontracté, direct, empathique, créatif) |
-| 📚 **Expliquer** | `Ctrl+Alt+6` | Simplifier à 5 niveaux (Expert → Enfant) |
-| • **Points clés** | `Ctrl+Alt+7` | Extraire les idées principales en liste structurée |
-| 📊 **Tableau** | `Ctrl+Alt+8` | Organiser les données en tableau Markdown |
+| ✨ **Reformuler** | `Ctrl+Shift+1` | Améliorer le style, la clarté et le professionnalisme |
+| 📋 **Résumer** | `Ctrl+Shift+2` | Extraire les points clés en version concise |
+| 🌍 **Traduire** | `Ctrl+Shift+3` | Traduire vers 10+ langues en préservant le contexte |
+| ✓ **Corriger** | `Ctrl+Shift+4` | Corriger orthographe, grammaire et ponctuation |
+| 💬 **Répondre** | `Ctrl+Shift+5` | Générer une réponse avec 5 tonalités (formel, décontracté, direct, empathique, créatif) |
+| 📚 **Expliquer** | `Ctrl+Shift+6` | Simplifier à 5 niveaux (Expert → Enfant) |
+| • **Points clés** | `Ctrl+Shift+7` | Extraire les idées principales en liste structurée |
+| 📊 **Tableau** | `Ctrl+Shift+8` | Organiser les données en tableau Markdown |
 
 ### 🚀 Accès instantané
 
 - **⌨️ Palette principale** : `Ctrl+Alt+W` — ouvre SnapContext depuis n'importe quelle application
 - **🖱️ Menu contextuel** : Clic droit sur du texte sélectionné ou un fichier
-- **🔢 Raccourcis directs** : `Ctrl+Alt+1` à `Ctrl+Alt+8` pour chaque action
+- **🔢 Raccourcis directs** : `Ctrl+Shift+1` à `Ctrl+Shift+8` pour chaque action
 - **📄 Support fichiers** : Ouvrez directement des fichiers TXT, MD, PDF, DOCX, JSON, XML, code source...
 
 ### 🔧 Intégration Windows native
@@ -118,20 +118,20 @@
 
 | Action | Shortcut | Description |
 |--------|----------|-------------|
-| ✨ **Reformulate** | `Ctrl+Alt+1` | Improve style, clarity and professionalism |
-| 📋 **Summarize** | `Ctrl+Alt+2` | Extract key points in concise version |
-| 🌍 **Translate** | `Ctrl+Alt+3` | Translate to 10+ languages while preserving context |
-| ✓ **Correct** | `Ctrl+Alt+4` | Fix spelling, grammar and punctuation |
-| 💬 **Reply** | `Ctrl+Alt+5` | Generate response with 5 tones (formal, casual, direct, empathetic, creative) |
-| 📚 **Explain** | `Ctrl+Alt+6` | Simplify at 5 levels (Expert → Child) |
-| • **Key Points** | `Ctrl+Alt+7` | Extract main ideas as structured list |
-| 📊 **Table** | `Ctrl+Alt+8` | Organize data as Markdown table |
+| ✨ **Reformulate** | `Ctrl+Shift+1` | Improve style, clarity and professionalism |
+| 📋 **Summarize** | `Ctrl+Shift+2` | Extract key points in concise version |
+| 🌍 **Translate** | `Ctrl+Shift+3` | Translate to 10+ languages while preserving context |
+| ✓ **Correct** | `Ctrl+Shift+4` | Fix spelling, grammar and punctuation |
+| 💬 **Reply** | `Ctrl+Shift+5` | Generate response with 5 tones (formal, casual, direct, empathetic, creative) |
+| 📚 **Explain** | `Ctrl+Shift+6` | Simplify at 5 levels (Expert → Child) |
+| • **Key Points** | `Ctrl+Shift+7` | Extract main ideas as structured list |
+| 📊 **Table** | `Ctrl+Shift+8` | Organize data as Markdown table |
 
 ### 🚀 Instant Access
 
 - **⌨️ Main Palette** : `Ctrl+Alt+W` — opens SnapContext from any application
 - **🖱️ Context Menu** : Right-click on selected text or files
-- **🔢 Direct Shortcuts** : `Ctrl+Alt+1` to `Ctrl+Alt+8` for each action
+- **🔢 Direct Shortcuts** : `Ctrl+Shift+1` to `Ctrl+Shift+8` for each action
 - **📄 File Support** : Open TXT, MD, PDF, DOCX, JSON, XML, source code files directly...
 
 ### 🔧 Native Windows Integration
