@@ -2,195 +2,439 @@
 
 <div align="center">
 
-![SnapContext](https://img.shields.io/badge/SnapContext-Windows-blue?style=for-the-badge&logo=windows)
-![Version](https://img.shields.io/github/v/release/cyberlife-coder/snapcontext-releases?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/cyberlife-coder/snapcontext-releases/total?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/cyberlife-coder/snapcontext-releases/main/assets/logo.png" alt="SnapContext Logo" width="120"/>
+
+# 🚀 L'Assistant IA qui booste votre productivité
+
+**Reformulez, résumez, traduisez, corrigez — en un clic droit ou un raccourci clavier**
+
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows)
+[![Version](https://img.shields.io/badge/Version-1.7.0-00C853?style=for-the-badge)](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
+![Downloads](https://img.shields.io/github/downloads/cyberlife-coder/snapcontext-releases/total?style=for-the-badge&color=FF6B35)
+
+<br/>
+
+[<img src="https://img.shields.io/badge/📥_TÉLÉCHARGER-Gratuit-00C853?style=for-the-badge&logoColor=white" alt="Télécharger" height="50"/>](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
+
+[🌐 Page produit](https://snapcontext.getappsuite.com) • [👤 Créer un compte gratuit](https://getappsuite.com) • [📖 Documentation](https://snapcontext.getappsuite.com/docs)
+
+---
 
 ### 🇫🇷 Français | [🇬🇧 English](#english)
-
-**Assistant contextuel IA pour Windows**
-
-*Reformulez, résumez, traduisez et corrigez vos textes en un clic droit ou avec `Ctrl+Alt+W`*
-
-[📥 Télécharger](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest) • [🌐 Page produit](https://snapcontext.getappsuite.com) • [👤 Créer un compte](https://getappsuite.com)
 
 </div>
 
 ---
 
-## ✨ Fonctionnalités complètes
+## 💡 Pourquoi SnapContext ?
 
-### 8 Actions IA instantanées
+> **Gagnez du temps. Écrivez mieux. Communiquez plus efficacement.**
 
-| Action | Raccourci | Description |
-|--------|-----------|-------------|
-| ✨ **Reformuler** | `Ctrl+Shift+1` | Améliorer le style, la clarté et le professionnalisme |
-| 📋 **Résumer** | `Ctrl+Shift+2` | Extraire les points clés en version concise |
-| 🌍 **Traduire** | `Ctrl+Shift+3` | Traduire vers 10+ langues en préservant le contexte |
-| ✓ **Corriger** | `Ctrl+Shift+4` | Corriger orthographe, grammaire et ponctuation |
-| 💬 **Répondre** | `Ctrl+Shift+5` | Générer une réponse avec 5 tonalités (formel, décontracté, direct, empathique, créatif) |
-| 📚 **Expliquer** | `Ctrl+Shift+6` | Simplifier à 5 niveaux (Expert → Enfant) |
-| • **Points clés** | `Ctrl+Shift+7` | Extraire les idées principales en liste structurée |
-| 📊 **Tableau** | `Ctrl+Shift+8` | Organiser les données en tableau Markdown |
+SnapContext intègre l'IA directement dans votre workflow Windows. Plus besoin de copier-coller vers ChatGPT — sélectionnez votre texte, appuyez sur un raccourci, et c'est fait.
 
-### 🚀 Accès instantané
+<div align="center">
 
-- **⌨️ Palette principale** : `Ctrl+Alt+W` — ouvre SnapContext depuis n'importe quelle application
-- **🖱️ Menu contextuel** : Clic droit sur du texte sélectionné ou un fichier
-- **🔢 Raccourcis directs** : `Ctrl+Shift+1` à `Ctrl+Shift+8` pour chaque action
-- **📄 Support fichiers** : Ouvrez directement des fichiers TXT, MD, PDF, DOCX, JSON, XML, code source...
+| ⚡ **Instantané** | 🎯 **Précis** | 🔒 **Sécurisé** |
+|:---:|:---:|:---:|
+| Résultat en 2-3 secondes | 8 actions IA spécialisées | Vos données ne sont jamais stockées |
 
-### 🔧 Intégration Windows native
-
-- **🔽 Mode Systray** : Tourne en arrière-plan (~15 MB RAM, 0% CPU au repos)
-- **🚀 Démarrage auto** : Option de lancement avec Windows
-- **🔔 Notifications** : Alertes discrètes pour actions et mises à jour
-- **🎨 Thème adaptatif** : S'adapte au thème clair/sombre de Windows
-- **🌍 Bilingue** : Interface complète en Français et English
-
-### 🔄 Mises à jour automatiques
-
-- Vérification silencieuse au démarrage
-- Téléchargement en arrière-plan
-- Installation en un clic avec confirmation
-- Redémarrage automatique après mise à jour
-
-### 🔒 Confidentialité & Sécurité
-
-- **Chiffrement HTTPS** : Communications sécurisées avec les API IA
-- **Pas de stockage** : Vos textes ne sont pas conservés après traitement
-- **RGPD compatible** : Aucune donnée personnelle collectée
-- **Backend Rust** : Application native, sécurisée et performante
+</div>
 
 ---
 
-## 📥 Installation
+## ✨ 8 Super-pouvoirs IA
 
-1. **Téléchargez** la dernière version : [Releases](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
-2. **Exécutez** `SnapContext_x.x.x_x64-setup.exe`
-3. **SmartScreen** : Cliquez "Informations complémentaires" → "Exécuter quand même"
-4. **Connectez-vous** avec votre compte [Wiscale](https://getappsuite.com)
-5. **C'est prêt !** Utilisez `Ctrl+Alt+W` ou le clic droit
+<table>
+<tr>
+<td width="50%">
+
+### ✨ Reformuler
+Transformez un brouillon en texte professionnel. 5 styles disponibles : formel, décontracté, concis, détaillé, créatif.
+
+### 📋 Résumer  
+Obtenez l'essentiel d'un long document en quelques lignes. Idéal pour les emails, rapports, articles.
+
+### 🌍 Traduire
+10+ langues supportées avec préservation du contexte et du ton. Français, anglais, espagnol, allemand, italien, portugais, chinois, japonais, coréen, arabe...
+
+### ✓ Corriger
+Orthographe, grammaire, ponctuation, style — tout est vérifié et corrigé automatiquement.
+
+</td>
+<td width="50%">
+
+### 💬 Répondre
+Générez une réponse adaptée avec le bon ton : professionnel, amical, empathique, assertif, ou personnalisé.
+
+### 📚 Expliquer
+Simplifiez n'importe quel concept à 5 niveaux : Expert, Intermédiaire, Débutant, Enfant, ou sur mesure.
+
+### • Points clés
+Extrayez les idées principales d'un texte en liste structurée et hiérarchisée.
+
+### 📊 Tableau
+Organisez automatiquement des données en tableau Markdown clair et lisible.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💳 Tarification
+## 🎮 3 Façons d'Utiliser SnapContext
 
-| Plan | Prix | Crédits/mois |
-|------|------|--------------|
-| **Free** | 0€ | 50 crédits |
-| **Starter** | 6,99€/mois | 500 crédits |
-| **Pro** | 14,99€/mois | 2 000 crédits |
-| **Unlimited** | 29,99€/mois | Illimité |
+<div align="center">
 
-👉 **Gérez votre abonnement sur [getappsuite.com](https://getappsuite.com)**
+| 🖱️ **Clic Droit** | ⌨️ **Palette Magique** | 🔢 **Raccourcis Directs** |
+|:---:|:---:|:---:|
+| Sélectionnez → Clic droit → SnapContext | `Ctrl+Alt+W` depuis n'importe où | `Ctrl+Shift+1` à `Ctrl+Shift+8` |
+| *Fonctionne sur fichiers aussi !* | *Copie auto du texte sélectionné* | *Action instantanée* |
+
+</div>
+
+### 📄 Formats de fichiers supportés
+
+Ouvrez directement vos fichiers par clic droit :
+
+- **Documents** : PDF, DOCX, TXT, MD, RTF
+- **Données** : JSON, XML, YAML, CSV
+- **Code** : JS, TS, PY, RS, GO, JAVA, C#, PHP, HTML, CSS...
 
 ---
 
-## 📞 Support
+## 🎙️ Commandes Vocales (v1.6.0)
 
-- **Email** : support@wiscale.fr
-- **Page produit** : [snapcontext.getappsuite.com](https://snapcontext.getappsuite.com)
-- **Compte & Abonnement** : [getappsuite.com](https://getappsuite.com)
+<div align="center">
+
+**Parlez, SnapContext exécute.**
+
+</div>
+
+Appuyez sur `Ctrl+Shift+Space` et dites simplement :
+
+> *"Résume ce texte"* • *"Traduis en anglais"* • *"Corrige les fautes"* • *"Reformule en plus formel"*
+
+- 🎯 **Reconnaissance multilingue** : Français et anglais
+- 🧠 **Interprétation intelligente** : Comprend vos intentions
+- 🎤 **Sélection microphone** : Choisissez et testez votre micro
+- ⚡ **Exécution automatique** : L'action se lance immédiatement
+
+---
+
+## 📚 Traitement de Livres Entiers (v1.7.0)
+
+<div align="center">
+
+**Traduisez ou résumez des ouvrages complets en quelques minutes.**
+
+</div>
+
+- 📦 **Fichiers jusqu'à 20 Mo** supportés
+- ⚡ **Traitement parallèle** : 3 segments simultanés
+- 📊 **Barre de progression** en temps réel
+- 🔄 **Agrégation intelligente** des résultats
+- 💰 **Estimation des crédits** avant lancement
+- ❌ **Annulation possible** à tout moment
+
+*Idéal pour : manuels techniques, rapports annuels, livres, thèses, documentation...*
+
+---
+
+## 🔧 Intégration Windows Parfaite
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔽 Mode Résident
+- Tourne silencieusement en arrière-plan
+- ~15 Mo RAM, 0% CPU au repos
+- Icône dans le systray avec crédits
+
+### 🚀 Démarrage Automatique
+- Option de lancement avec Windows
+- Toujours prêt quand vous en avez besoin
+
+### 🎨 Thème Adaptatif
+- Suit automatiquement le thème Windows
+- Mode clair, sombre, ou automatique
+
+</td>
+<td width="50%">
+
+### ⌨️ Raccourcis Personnalisables
+- Modifiez tous les raccourcis
+- Support du pavé numérique
+- Détection de conflits
+
+### 🔄 Mises à Jour Auto
+- Notification discrète
+- Installation en un clic
+- Pas de désinstallation manuelle
+
+### 🌐 Bilingue FR/EN
+- Interface 100% traduite
+- Détection automatique de la langue
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📖 Centre d'Aide Intégré
+
+Besoin d'aide ? Tout est dans l'application :
+
+- 🚀 **Guide de démarrage** en 3 étapes
+- 📚 **Description des 8 actions** avec exemples
+- ⌨️ **Liste des raccourcis** clavier
+- 💳 **Système de crédits** expliqué
+- ❓ **FAQ** interactive
+
+---
+
+## 🔒 Sécurité & Confidentialité
+
+<div align="center">
+
+| 🔐 **Chiffrement** | 🗑️ **Pas de stockage** | 🇪🇺 **RGPD** |
+|:---:|:---:|:---:|
+| HTTPS end-to-end | Textes supprimés après traitement | Aucune donnée personnelle collectée |
+
+</div>
+
+- ✅ Application native (pas d'Electron = plus sécurisé)
+- ✅ Aucun accès à vos fichiers sans votre action
+- ✅ Clé API stockée localement et chiffrée
+- ✅ Code auditable sur demande
+
+---
+
+## 📥 Installation en 2 Minutes
+
+<div align="center">
+
+### Étape 1 : Télécharger
+
+[<img src="https://img.shields.io/badge/📥_Télécharger_SnapContext-v1.7.0-00C853?style=for-the-badge" alt="Download" height="40"/>](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
+
+</div>
+
+### Étape 2 : Installer
+
+1. Lancez `SnapContext_x64-setup.exe`
+2. **SmartScreen** : Cliquez *"Informations complémentaires"* → *"Exécuter quand même"*
+3. Suivez l'assistant d'installation
+
+### Étape 3 : Se Connecter
+
+1. Créez un compte gratuit sur [getappsuite.com](https://getappsuite.com)
+2. Copiez votre clé API depuis le dashboard
+3. Collez-la dans SnapContext
+
+### 🎉 C'est prêt !
+
+Appuyez sur `Ctrl+Alt+W` ou faites un clic droit sur du texte.
+
+> 💡 **Mise à jour ?** Lancez simplement le nouvel installateur — il remplace automatiquement l'ancienne version.
+
+---
+
+## 💳 Tarification Simple & Transparente
+
+<div align="center">
+
+| Plan | Prix | Crédits/mois | Idéal pour |
+|:---:|:---:|:---:|:---|
+| 🆓 **Free** | **0€** | 50 | Découvrir SnapContext |
+| ⭐ **Starter** | 6,99€/mois | 500 | Usage quotidien modéré |
+| 🚀 **Pro** | 14,99€/mois | 2 000 | Professionnels & équipes |
+| ♾️ **Unlimited** | 29,99€/mois | Illimité | Usage intensif |
+
+</div>
+
+**1 crédit = 1 action IA** (reformuler, traduire, résumer, etc.)
+
+👉 [**Gérer mon abonnement**](https://getappsuite.com)
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>SnapContext fonctionne-t-il hors ligne ?</b></summary>
+Non, une connexion internet est nécessaire pour les traitements IA. L'application elle-même peut tourner hors ligne mais les actions ne fonctionneront pas.
+</details>
+
+<details>
+<summary><b>Mes textes sont-ils stockés ?</b></summary>
+Non, jamais. Vos textes sont envoyés pour traitement et immédiatement supprimés après. Nous ne conservons aucun contenu.
+</details>
+
+<details>
+<summary><b>Puis-je utiliser SnapContext sur plusieurs PC ?</b></summary>
+Oui ! Votre compte est lié à votre clé API, pas à votre machine. Installez SnapContext sur autant de PC que vous voulez.
+</details>
+
+<details>
+<summary><b>Comment fonctionne le système de crédits ?</b></summary>
+Chaque action IA consomme 1 crédit. Les commandes vocales consomment 3 crédits. Vos crédits se renouvellent chaque mois.
+</details>
+
+<details>
+<summary><b>SmartScreen bloque l'installation, que faire ?</b></summary>
+C'est normal pour les nouvelles applications. Cliquez "Informations complémentaires" puis "Exécuter quand même". SnapContext est sûr et signé.
+</details>
+
+---
+
+## 📞 Support & Contact
+
+<div align="center">
+
+| 📧 Email | 🌐 Site | 👤 Compte |
+|:---:|:---:|:---:|
+| [support@wiscale.fr](mailto:support@wiscale.fr) | [snapcontext.getappsuite.com](https://snapcontext.getappsuite.com) | [getappsuite.com](https://getappsuite.com) |
+
+</div>
 
 ---
 
 <a name="english"></a>
 
-# 🇬🇧 English
-
 <div align="center">
 
-**AI-Powered Context Assistant for Windows**
+# 🇬🇧 English
 
-*Reformulate, summarize, translate and correct your texts with a right-click or `Ctrl+Alt+W`*
+# 🚀 The AI Assistant That Boosts Your Productivity
 
-[📥 Download](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest) • [🌐 Product Page](https://snapcontext.getappsuite.com) • [👤 Create Account](https://getappsuite.com)
+**Reformulate, summarize, translate, correct — with a right-click or keyboard shortcut**
+
+[<img src="https://img.shields.io/badge/📥_DOWNLOAD-Free-00C853?style=for-the-badge&logoColor=white" alt="Download" height="50"/>](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
+
+[🌐 Product Page](https://snapcontext.getappsuite.com) • [👤 Create Free Account](https://getappsuite.com) • [📖 Documentation](https://snapcontext.getappsuite.com/docs)
 
 </div>
 
 ---
 
-## ✨ Complete Features
+## 💡 Why SnapContext?
 
-### 8 Instant AI Actions
+> **Save time. Write better. Communicate more effectively.**
+
+SnapContext integrates AI directly into your Windows workflow. No more copy-pasting to ChatGPT — select your text, press a shortcut, done.
+
+---
+
+## ✨ 8 AI Super-powers
 
 | Action | Shortcut | Description |
-|--------|----------|-------------|
-| ✨ **Reformulate** | `Ctrl+Shift+1` | Improve style, clarity and professionalism |
-| 📋 **Summarize** | `Ctrl+Shift+2` | Extract key points in concise version |
-| 🌍 **Translate** | `Ctrl+Shift+3` | Translate to 10+ languages while preserving context |
-| ✓ **Correct** | `Ctrl+Shift+4` | Fix spelling, grammar and punctuation |
-| 💬 **Reply** | `Ctrl+Shift+5` | Generate response with 5 tones (formal, casual, direct, empathetic, creative) |
-| 📚 **Explain** | `Ctrl+Shift+6` | Simplify at 5 levels (Expert → Child) |
-| • **Key Points** | `Ctrl+Shift+7` | Extract main ideas as structured list |
-| 📊 **Table** | `Ctrl+Shift+8` | Organize data as Markdown table |
+|:---|:---:|:---|
+| ✨ **Reformulate** | `Ctrl+Shift+1` | Transform drafts into professional text. 5 styles available. |
+| 📋 **Summarize** | `Ctrl+Shift+2` | Get the essence of long documents in a few lines. |
+| 🌍 **Translate** | `Ctrl+Shift+3` | 10+ languages with context preservation. |
+| ✓ **Correct** | `Ctrl+Shift+4` | Spelling, grammar, punctuation, style — all fixed. |
+| 💬 **Reply** | `Ctrl+Shift+5` | Generate responses with the right tone. |
+| 📚 **Explain** | `Ctrl+Shift+6` | Simplify any concept at 5 levels. |
+| • **Key Points** | `Ctrl+Shift+7` | Extract main ideas as structured list. |
+| 📊 **Table** | `Ctrl+Shift+8` | Organize data as Markdown table. |
 
-### 🚀 Instant Access
+---
 
-- **⌨️ Main Palette** : `Ctrl+Alt+W` — opens SnapContext from any application
-- **🖱️ Context Menu** : Right-click on selected text or files
-- **🔢 Direct Shortcuts** : `Ctrl+Shift+1` to `Ctrl+Shift+8` for each action
-- **📄 File Support** : Open TXT, MD, PDF, DOCX, JSON, XML, source code files directly...
+## 🎮 3 Ways to Use SnapContext
 
-### 🔧 Native Windows Integration
+| 🖱️ **Right-Click** | ⌨️ **Magic Palette** | 🔢 **Direct Shortcuts** |
+|:---:|:---:|:---:|
+| Select → Right-click → SnapContext | `Ctrl+Alt+W` from anywhere | `Ctrl+Shift+1` to `Ctrl+Shift+8` |
 
-- **🔽 Systray Mode** : Runs in background (~15 MB RAM, 0% CPU idle)
-- **🚀 Auto-start** : Optional launch with Windows
-- **🔔 Notifications** : Discrete alerts for actions and updates
-- **🎨 Adaptive Theme** : Matches Windows light/dark theme
-- **🌍 Bilingual** : Full interface in French and English
+### 📄 Supported File Formats
 
-### 🔄 Automatic Updates
+- **Documents**: PDF, DOCX, TXT, MD, RTF
+- **Data**: JSON, XML, YAML, CSV  
+- **Code**: JS, TS, PY, RS, GO, JAVA, C#, PHP, HTML, CSS...
 
-- Silent check at startup
-- Background download
-- One-click installation with confirmation
-- Automatic restart after update
+---
 
-### 🔒 Privacy & Security
+## 🎙️ Voice Commands (v1.6.0)
 
-- **HTTPS Encryption** : Secure communications with AI APIs
-- **No Storage** : Your texts are not stored after processing
-- **GDPR Compliant** : No personal data collected
-- **Rust Backend** : Native, secure and performant application
+Press `Ctrl+Shift+Space` and say:
+
+> *"Summarize this text"* • *"Translate to French"* • *"Fix the errors"* • *"Make it more formal"*
+
+---
+
+## 📚 Process Entire Books (v1.7.0)
+
+**Translate or summarize complete books in minutes.**
+
+- 📦 Files up to **20 MB** supported
+- ⚡ **Parallel processing**: 3 segments simultaneously
+- 📊 **Real-time progress bar**
+- 💰 **Credit estimation** before launch
+- ❌ **Cancellation** possible anytime
+
+---
+
+## 🔧 Perfect Windows Integration
+
+- 🔽 **Resident mode**: Runs silently in background (~15 MB RAM)
+- 🚀 **Auto-start**: Launch with Windows option
+- 🎨 **Adaptive theme**: Follows Windows light/dark theme
+- ⌨️ **Customizable shortcuts**: Modify all hotkeys
+- 🔄 **Auto-updates**: One-click installation
+- 🌐 **Bilingual FR/EN**: 100% translated interface
+
+---
+
+## 🔒 Security & Privacy
+
+- 🔐 **HTTPS encryption** end-to-end
+- 🗑️ **No storage**: Texts deleted after processing
+- 🇪🇺 **GDPR compliant**: No personal data collected
+- ✅ **Native app**: Not Electron = more secure
 
 ---
 
 ## 📥 Installation
 
-1. **Download** the latest version: [Releases](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
-2. **Run** `SnapContext_x.x.x_x64-setup.exe`
-3. **SmartScreen** : Click "More info" → "Run anyway"
-4. **Sign in** with your [Wiscale](https://getappsuite.com) account
-5. **Ready!** Use `Ctrl+Alt+W` or right-click
+1. **Download**: [Latest Release](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
+2. **Run** `SnapContext_x64-setup.exe`
+3. **SmartScreen**: Click *"More info"* → *"Run anyway"*
+4. **Sign in** with your [getappsuite.com](https://getappsuite.com) account
+5. **Ready!** Press `Ctrl+Alt+W` or right-click
 
 ---
 
-## 💳 Pricing
+## 💳 Simple & Transparent Pricing
 
 | Plan | Price | Credits/month |
-|------|-------|---------------|
-| **Free** | $0 | 50 credits |
-| **Starter** | $6.99/month | 500 credits |
-| **Pro** | $14.99/month | 2,000 credits |
-| **Unlimited** | $29.99/month | Unlimited |
+|:---:|:---:|:---:|
+| 🆓 **Free** | **$0** | 50 |
+| ⭐ **Starter** | $6.99/month | 500 |
+| 🚀 **Pro** | $14.99/month | 2,000 |
+| ♾️ **Unlimited** | $29.99/month | Unlimited |
 
-👉 **Manage your subscription at [getappsuite.com](https://getappsuite.com)**
+**1 credit = 1 AI action**
+
+👉 [**Manage subscription**](https://getappsuite.com)
 
 ---
 
 ## 📞 Support
 
-- **Email** : support@wiscale.fr
-- **Product Page** : [snapcontext.getappsuite.com](https://snapcontext.getappsuite.com)
-- **Account & Subscription** : [getappsuite.com](https://getappsuite.com)
+- **Email**: [support@wiscale.fr](mailto:support@wiscale.fr)
+- **Product Page**: [snapcontext.getappsuite.com](https://snapcontext.getappsuite.com)
+- **Account**: [getappsuite.com](https://getappsuite.com)
 
 ---
 
 <div align="center">
 
 **© 2025 [Wiscale](https://wiscale.fr)** — All rights reserved
+
+<br/>
+
+Made with ❤️ in France
 
 </div>
