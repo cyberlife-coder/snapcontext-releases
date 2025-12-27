@@ -9,7 +9,7 @@
 **Reformulez, résumez, traduisez, corrigez — en un clic droit ou un raccourci clavier**
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows)
-[![Version](https://img.shields.io/badge/Version-1.7.0-00C853?style=for-the-badge)](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
+[![Version](https://img.shields.io/badge/Version-1.7.2-00C853?style=for-the-badge)](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
 ![Downloads](https://img.shields.io/github/downloads/cyberlife-coder/snapcontext-releases/total?style=for-the-badge&color=FF6B35)
 
 <br/>
@@ -36,13 +36,13 @@ SnapContext intègre l'IA directement dans votre workflow Windows. Plus besoin d
 
 | ⚡ **Instantané** | 🎯 **Précis** | 🔒 **Sécurisé** |
 |:---:|:---:|:---:|
-| Résultat en 2-3 secondes | 8 actions IA spécialisées | Vos données ne sont jamais stockées |
+| Résultat en 2-3 secondes | 9 actions IA spécialisées | Vos données ne sont jamais stockées |
 
 </div>
 
 ---
 
-## ✨ 8 Super-pouvoirs IA
+## ✨ 9 Super-pouvoirs IA
 
 <table>
 <tr>
@@ -75,6 +75,9 @@ Extrayez les idées principales d'un texte en liste structurée et hiérarchisé
 ### 📊 Tableau
 Organisez automatiquement des données en tableau Markdown clair et lisible.
 
+### 🎯 Instruction Libre (v1.7.2)
+Donnez votre propre instruction à l'IA. Transformez en poème, convertissez du code, ajoutez des emojis...
+
 </td>
 </tr>
 </table>
@@ -87,7 +90,7 @@ Organisez automatiquement des données en tableau Markdown clair et lisible.
 
 | 🖱️ **Clic Droit** | ⌨️ **Palette Magique** | 🔢 **Raccourcis Directs** |
 |:---:|:---:|:---:|
-| Sélectionnez → Clic droit → SnapContext | `Ctrl+Alt+W` depuis n'importe où | `Ctrl+Shift+1` à `Ctrl+Shift+8` |
+| Sélectionnez → Clic droit → SnapContext | `Ctrl+Alt+W` depuis n'importe où | `Ctrl+Shift+1` à `Ctrl+Shift+9` |
 | *Fonctionne sur fichiers aussi !* | *Copie auto du texte sélectionné* | *Action instantanée* |
 
 </div>
@@ -187,7 +190,7 @@ Appuyez sur `Ctrl+Shift+Space` et dites simplement :
 Besoin d'aide ? Tout est dans l'application :
 
 - 🚀 **Guide de démarrage** en 3 étapes
-- 📚 **Description des 8 actions** avec exemples
+- 📚 **Description des 9 actions** avec exemples
 - ⌨️ **Liste des raccourcis** clavier
 - 💳 **Système de crédits** expliqué
 - ❓ **FAQ** interactive
@@ -217,7 +220,7 @@ Besoin d'aide ? Tout est dans l'application :
 
 ### Étape 1 : Télécharger
 
-[<img src="https://img.shields.io/badge/📥_Télécharger_SnapContext-v1.7.0-00C853?style=for-the-badge" alt="Download" height="40"/>](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
+[<img src="https://img.shields.io/badge/📥_Télécharger_SnapContext-v1.7.2-00C853?style=for-the-badge" alt="Download" height="40"/>](https://github.com/cyberlife-coder/snapcontext-releases/releases/latest)
 
 </div>
 
@@ -327,18 +330,19 @@ SnapContext integrates AI directly into your Windows workflow. No more copy-past
 
 ---
 
-## ✨ 8 AI Super-powers
+## ✨ 9 AI Super-powers
 
 | Action | Shortcut | Description |
 |:---|:---:|:---|
 | ✨ **Reformulate** | `Ctrl+Shift+1` | Transform drafts into professional text. 5 styles available. |
-| 📋 **Summarize** | `Ctrl+Shift+2` | Get the essence of long documents in a few lines. |
+| 📋 **Summarize** | `Ctrl+Shift+2` | Get the essence of long documents. 4 styles: Standard, Bullet, TL;DR, Executive. |
 | 🌍 **Translate** | `Ctrl+Shift+3` | 10+ languages with context preservation. |
 | ✓ **Correct** | `Ctrl+Shift+4` | Spelling, grammar, punctuation, style — all fixed. |
 | 💬 **Reply** | `Ctrl+Shift+5` | Generate responses with the right tone. |
 | 📚 **Explain** | `Ctrl+Shift+6` | Simplify any concept at 5 levels. |
 | • **Key Points** | `Ctrl+Shift+7` | Extract main ideas as structured list. |
 | 📊 **Table** | `Ctrl+Shift+8` | Organize data as Markdown table. |
+| 🎯 **Custom** | `Ctrl+Shift+9` | Give your own instruction to the AI. (v1.7.2) |
 
 ---
 
@@ -346,7 +350,7 @@ SnapContext integrates AI directly into your Windows workflow. No more copy-past
 
 | 🖱️ **Right-Click** | ⌨️ **Magic Palette** | 🔢 **Direct Shortcuts** |
 |:---:|:---:|:---:|
-| Select → Right-click → SnapContext | `Ctrl+Alt+W` from anywhere | `Ctrl+Shift+1` to `Ctrl+Shift+8` |
+| Select → Right-click → SnapContext | `Ctrl+Alt+W` from anywhere | `Ctrl+Shift+1` to `Ctrl+Shift+9` |
 
 ### 📄 Supported File Formats
 
